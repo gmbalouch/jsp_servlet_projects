@@ -1,0 +1,12 @@
+
+
+.navbar-nav .nav-item .nav-link {
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    background-color: white; /* Background turns white */
+    color: black; 
+}
